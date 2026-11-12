@@ -82,7 +82,7 @@ export function OverviewSection({
           <div className="lg:col-span-6">
             <div className="relative h-72 sm:h-96 lg:h-full min-h-[380px] rounded-xl overflow-hidden border border-[#E7E5E0] bg-[#EFECE6]">
               <ResilientImage
-                src="/src/assets/images/hero_collective_atelier_1794514483454.jpg"
+                src="/images/hero_collective_atelier_1794514483454.jpg"
                 alt="Sun-drenched interior of Hello Sunshine Collective featuring oak tables stocked with handmade stoneware ceramics, textiles, and botanical jars"
                 fallbackTitle="Hello Sunshine Collective Storefront"
                 className="w-full h-full object-cover"

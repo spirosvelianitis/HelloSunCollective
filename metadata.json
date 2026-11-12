@@ -1,6 +1,8 @@
 {
-  "name": "Hello Sunshine Collective",
+  "name": "HelloSunCol",
   "description": "Community hub, vendor sales and inventory insights, community event calendar, and vendor partnership portal for Hello Sunshine Collective.",
   "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
 }

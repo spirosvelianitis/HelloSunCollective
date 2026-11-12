@@ -207,7 +207,7 @@ export function CommunityCalendarSection({
           <div className="lg:col-span-5">
             <div className="h-56 lg:h-full min-h-[210px] rounded-xl overflow-hidden border border-[#E7E5E0] bg-[#EFECE6]">
               <ResilientImage
-                src="/src/assets/images/community_workshop_gathering_1794514484220.jpg"
+                src="/images/community_workshop_gathering_1794514484220.jpg"
                 alt="Neighbors and makers gathered around a timber table crafting pressed botanical prints at Hello Sunshine Collective"
                 fallbackTitle="Community Workshop Table"
                 className="w-full h-full object-cover"

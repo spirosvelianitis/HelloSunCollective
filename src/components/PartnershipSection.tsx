@@ -118,7 +118,7 @@ export function PartnershipSection({
             <div className="rounded-xl overflow-hidden border border-[#E7E5E0] bg-[#FAF9F6]">
               <div className="h-44 overflow-hidden border-b border-[#E7E5E0]">
                 <ResilientImage
-                  src="/src/assets/images/vendor_botanical_apothecary_1794514483984.jpg"
+                  src="/images/vendor_botanical_apothecary_1794514483984.jpg"
                   alt="Small-batch botanical apothecary goods displayed on stone shelf at Hello Sunshine Collective"
                   fallbackTitle="Collective Shelf Curation"
                   className="w-full h-full object-cover"

@@ -64,7 +64,7 @@ export const INITIAL_VENDORS: Vendor[] = [
     studioLocation: 'Eastside Kiln',
     joinedDate: 'March 2022',
     bio: 'Wheel-thrown speckled stoneware designed for daily table rituals, glazed in matte ash and warm iron washes.',
-    imageUrl: '/src/assets/images/vendor_ceramics_studio_1794514482994.jpg',
+    imageUrl: '/images/vendor_ceramics_studio_1794514482994.jpg',
     payoutShare: 85,
     salesByPeriod: {
       [TimePeriod.ThirtyDays]: {
@@ -182,7 +182,7 @@ export const INITIAL_VENDORS: Vendor[] = [
     studioLocation: 'Greenhouse Row',
     joinedDate: 'June 2022',
     bio: 'Cold-infused botanical skincare, raw apiary beeswax candles, and whole-herb remedies harvested in the Willamette Valley.',
-    imageUrl: '/src/assets/images/vendor_botanical_apothecary_1794514483984.jpg',
+    imageUrl: '/images/vendor_botanical_apothecary_1794514483984.jpg',
     payoutShare: 85,
     salesByPeriod: {
       [TimePeriod.ThirtyDays]: {
@@ -290,7 +290,7 @@ export const INITIAL_VENDORS: Vendor[] = [
     studioLocation: 'North Mill Loft',
     joinedDate: 'October 2022',
     bio: 'Naturally dyed organic linen and merino textiles woven on floor looms using marigold, madder root, and fermented indigo.',
-    imageUrl: '/src/assets/images/hero_collective_atelier_1794514483454.jpg',
+    imageUrl: '/images/hero_collective_atelier_1794514483454.jpg',
     payoutShare: 85,
     salesByPeriod: {
       [TimePeriod.ThirtyDays]: {
@@ -398,7 +398,7 @@ export const INITIAL_VENDORS: Vendor[] = [
     studioLocation: 'Sunlit Roastery',
     joinedDate: 'February 2023',
     bio: 'Small-batch breakfast pantry goods, single-origin coffee roasts, and raw apiary honey jarred weekly.',
-    imageUrl: '/src/assets/images/hero_collective_atelier_1794514483454.jpg',
+    imageUrl: '/images/hero_collective_atelier_1794514483454.jpg',
     payoutShare: 85,
     salesByPeriod: {
       [TimePeriod.ThirtyDays]: {
@@ -506,7 +506,7 @@ export const INITIAL_VENDORS: Vendor[] = [
     studioLocation: 'Riverbench Shop',
     joinedDate: 'May 2023',
     bio: 'Salvaged Pacific Northwest walnut, cherry, and white ash shaped into heirloom kitchenware and sculptural desk objects.',
-    imageUrl: '/src/assets/images/vendor_ceramics_studio_1794514482994.jpg',
+    imageUrl: '/images/vendor_ceramics_studio_1794514482994.jpg',
     payoutShare: 85,
     salesByPeriod: {
       [TimePeriod.ThirtyDays]: {
@@ -604,7 +604,7 @@ export const INITIAL_VENDORS: Vendor[] = [
     studioLocation: 'Mezzanine Studio',
     joinedDate: 'September 2023',
     bio: 'Solar-exposed botanical cyanotypes, letterpress stationery, and stitched cotton rag notebooks made in small numbered editions.',
-    imageUrl: '/src/assets/images/community_workshop_gathering_1794514484220.jpg',
+    imageUrl: '/images/community_workshop_gathering_1794514484220.jpg',
     payoutShare: 85,
     salesByPeriod: {
       [TimePeriod.ThirtyDays]: {
